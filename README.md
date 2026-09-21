@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hardware-header.svg" alt="Divyesh — electronics and computer engineering: Logic to CPU to FPGA to GPU to Embedded" width="100%" />
+  <img src="assets/divtum header.svg" alt="Divyesh — electronics and computer engineering: Logic to CPU to FPGA to GPU to Embedded" width="100%" />
 </p>
 
 <p align="center">
