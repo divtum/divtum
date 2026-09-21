@@ -37,7 +37,7 @@ I use this profile as an engineering notebook as much as a portfolio. Expect rea
 ## Toolbox
 
 <p>
-  <img src="https://img.shields.io/badge/Verilog HDL-1f6feb?style=for-the-badge&logo=verilog hdl&logoColor=white" alt="Verilog HDL" />
+  <img src="https://img.shields.io/badge/Verilog HDL-1f6feb?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog HDL" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
