@@ -17,7 +17,7 @@ I use this profile as an engineering notebook as much as a portfolio. Expect rea
 
 ## Current work
 
-- Building and documenting **Digital System Design labs** in Verilog/SystemVerilog: combinational logic, sequential circuits, finite-state machines, and verification basics.
+- Building and documenting **Digital System Design labs** in Verilog HDL: combinational logic, sequential circuits, finite-state machines, and verification basics.
 - Strengthening foundations in **data structures and algorithms** alongside hardware work.
 - Developing the design habits behind larger architecture projects: specifications first, small testable modules, and clear trade-offs.
 
@@ -38,10 +38,8 @@ I use this profile as an engineering notebook as much as a portfolio. Expect rea
 
 <p>
   <img src="https://img.shields.io/badge/Verilog-1f6feb?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
-  <img src="https://img.shields.io/badge/SystemVerilog-6e40c9?style=for-the-badge&logoColor=white" alt="SystemVerilog" />
+  <img src="https://img.shields.io/badge/SystemVerilog-6e40c9?style=for-the-badge&logoColor=white" alt="Verilog HDL" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-183153?style=for-the-badge&logo=python&logoColor=ffd343" alt="Python" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
