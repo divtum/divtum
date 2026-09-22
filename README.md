@@ -21,8 +21,6 @@ I use this profile as an engineering notebook as much as a portfolio. Expect rea
 - Strengthening foundations in **data structures and algorithms** alongside hardware work.
 - Developing the design habits behind larger architecture projects: specifications first, small testable modules, and clear trade-offs.
 
-> The CPU, GPU, RISC-V, and embedded work below are a public roadmap. They are goals in development—not claims of completed projects.
-
 ## Engineering roadmap
 
 | Stage | Focus | Status |
